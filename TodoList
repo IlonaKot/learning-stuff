@@ -1,0 +1,15 @@
+1. Ściągnąć projekt z GitHuba
+	a. Jak się tam dostać? SSH / HTTPS
+	b. git clone
+2. Dodać nowy plik do GitHuba
+	a. Co to jest remote/upstream?
+	b. Co to jest origin?
+	c. Jak sprawdzić gdzie jest ustawione nasze repo?
+	d. git push
+3. Edycja istniejącego pliku (merge bez konfliktu)
+4. Edycja istniejącego pliku (merge z konfliktem)
+	a. Jak wygląda merge'owany plik i co to oznacza?
+	b. Jak wybrać zmiany?
+	c. git merge
+5. git reset
+6. Powtórka i review wiedzy
